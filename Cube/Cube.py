@@ -1,4 +1,3 @@
-from machine import Pin
 from time import sleep
 from machine import Pin
 from neopixel import NeoPixel
