@@ -6,7 +6,7 @@ On one side there is simple light sensor made from photoresistor, its resistivit
 On the second side lays two LEDs. 
 When the photoresistor is in the dark, blue LED will light up; when photoresistor in light is, than the green LED light up.
 
-![alt text <p align="center">](https://github.com/KattyKing/Micropython/blob/master/ADC/picture/ldr.jpg)
+![alt text](https://github.com/KattyKing/Micropython/blob/master/ADC/picture/ldr.jpg)
 
 How it works?
 
@@ -17,3 +17,8 @@ For what is ituseful?
 https://en.wikipedia.org/wiki/Analog-to-digital_converter
 
 https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/
+
+
+<p align="center">
+  <img github.com/KattyKing/Micropython/blob/master/ADC/picture/ldr_scheme.png/>
+</p>
