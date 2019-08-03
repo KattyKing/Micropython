@@ -1,6 +1,6 @@
 ## ADC pin: Analog-to-digital converter on NodeMCU
 
-#What does this circuit do?
+# What does this circuit do?
 
 On one side there is simple light sensor made from photoresistor, its resistivity depends on light. 
 On the second side lays two LEDs. 
