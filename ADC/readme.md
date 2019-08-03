@@ -20,5 +20,5 @@ https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/
 
 
 <p align="center">
-  <img github.com/KattyKing/Micropython/blob/master/ADC/picture/ldr_scheme.png/>
+  <img https://github.com/KattyKing/Micropython/blob/master/ADC/picture/ldr.jpg>
 </p>
