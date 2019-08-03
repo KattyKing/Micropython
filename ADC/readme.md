@@ -6,7 +6,7 @@ On one side there is simple light sensor made from photoresistor, its resistivit
 On the second side lays two LEDs. 
 When the photoresistor is in the dark, blue LED will light up; when photoresistor in light is, than the green LED light up.
 
-![alt text](https://github.com/KattyKing/Micropython/blob/master/ADC/picture/ldr.jpg)
+![alt text](https://github.com/KattyKing/Micropython/blob/master/ADC/picture/ldr.jpg) <p align="center">
 
 How it works?
 
